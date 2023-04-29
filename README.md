@@ -13,7 +13,7 @@ Hi there, I'm Chandrkishor, an experienced software developer with a proven trac
 
 ### 🤝 Connect with me:
 <!-- [<img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/in/chandrkishor) -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chandrkishor/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ck007tiwari)
 <br />
 <br />
 
@@ -48,17 +48,17 @@ Hi there, I'm Chandrkishor, an experienced software developer with a proven trac
 ![ESLint](https://img.shields.io/badge/-ESLint-black?style=flat-square&logo=eslint)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Chandrkishor&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Chandrkishor&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrkishor&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ck007tiwari&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ck007tiwari&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ck007tiwari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Chandrkishor&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ck007tiwari&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Chandrkishor&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ck007tiwari&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
