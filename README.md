@@ -1,12 +1,9 @@
 ## 👋 Introduction
 
-Hi there, I'm Chandrkishor, an experienced software developer with a proven track record of success. I've been coding and developing software for over two years, with expertise in the MERN stack, front-end development, and lead development.
+Hi there, I'm Chandrkishor, an experienced software developer with a proven track record of success. I've been coding and developing software for over three years, with expertise in the MERN stack, front-end development, and lead development.
 
-- 🔭 I’m currently working on MERN Stack
+- 🔭 I’m currently working on MERN Stack and React Native for mobile application's.
 - 👯 I’m looking to collaborate on anything interesting and challenging
-- 🤝 I’m looking for help with MERN and its ecosystem
-- 🌱 I’m currently learning Redis and NextJs
-- 💬 Ask me about JavaScript, or database, or anything else
 - ⚡ Fun fact: I was originally an Electrical Engineer!
 
 🌱 **Passion:** I'm always eager to learn and grow as a developer, and I'm confident in delivering high-quality results.
