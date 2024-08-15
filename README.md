@@ -1,61 +1,59 @@
-## 👋 Introduction
+# 👋 Hi there, I'm Chandrakishor Tiwari
 
-Hi there, I'm Chandrkishor, an experienced software developer with a proven track record of success. I've been coding and developing software for over three years, with expertise in the MERN stack, front-end development, and lead development.
+## 💻 Software Development Engineer II | MERN Stack Specialist | Frontend Expert
 
-- 🔭 I’m currently working on MERN Stack and React Native for mobile application's.
-- 👯 I’m looking to collaborate on anything interesting and challenging
+Dynamic software developer with 3 years of IT experience, specializing in frontend and MERN stack development. Currently leading frontend projects at a technology firm, with a proven track record of delivering high-quality solutions on time.
+
+- 🔭 I'm currently working on MERN Stack and React Native for mobile applications
+- 🌱 I'm always eager to learn and grow as a developer
+- 👯 I'm looking to collaborate on interesting and challenging projects
+- 🎓 Pursuing Masters in Computer Applications (MCA) from IGNOU Delhi (Jan 2024 - Jan 2026)
 - ⚡ Fun fact: I was originally an Electrical Engineer!
 
-🌱 **Passion:** I'm always eager to learn and grow as a developer, and I'm confident in delivering high-quality results.
+## 🛠️ Tech Stack
 
-### 🤝 Connect with me:
-<!-- [<img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/in/chandrkishor) -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ck007tiwari)
-<br />
-<br />
-
-# 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-black?style=flat-square&logo=cloudflare)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery)
-![MUI](https://img.shields.io/badge/-Material--UI-black?style=flat-square&logo=material-ui)
-![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
-![Next JS](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next-dot-js)
-![NodeJS](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![React Router](https://img.shields.io/badge/-React_Router-black?style=flat-square&logo=react-router)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css)
-![Yarn](https://img.shields.io/badge/-Yarn-black?style=flat-square&logo=yarn)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
-![Babel](https://img.shields.io/badge/-Babel-black?style=flat-square&logo=babel)
-![ESLint](https://img.shields.io/badge/-ESLint-black?style=flat-square&logo=eslint)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ck007tiwari&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ck007tiwari&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ck007tiwari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🏆 Experience
 
+### Software Engineer (SDE-II) at Harns Technology Pvt. Ltd.
+*Sept. 2022 - Present*
+- Leading development of scalable web applications
+- Collaborating with cross-functional teams on project requirements and architecture
+- Spearheading mobile application development from concept to release
+- Key projects: Woovet Admin Dashboard, Online Pet Hospital, Multi-Language Support, CEO Dashboard
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ck007tiwari&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+### Full-Stack Developer at Mindrops Pvt. Ltd.
+*March 2022 - Aug. 2022*
+- Developed and maintained robust web applications
+- Implemented Admin Call-Record Log Dashboard and Horticulture website
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📊 GitHub Stats
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ck007tiwari&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ck007tiwari&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ck007tiwari&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ck007tiwari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ck007tiwari)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:chandrakishort20@gmail.com)
+
+## 💬 Favorite Dev Quote
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+⭐️ From [Chandrakishor Tiwari](https://github.com/ck007tiwari)
