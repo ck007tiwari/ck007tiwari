@@ -2,7 +2,7 @@
 
 ## 💻 Software Development Engineer II | MERN Stack Specialist | Frontend Expert
 
-Dynamic software developer with 3 years of IT experience, specializing in frontend and MERN stack development. Currently leading frontend projects at a technology firm, with a proven track record of delivering high-quality solutions on time.
+Dynamic software developer with 3+ years of IT experience, specializing in frontend and MERN stack development. Currently leading frontend projects at a technology firm, with a proven track record of delivering high-quality solutions on time. Strong skills in project management and team leadership, committed to continuous learning and seeking to advance my career into Software Development Engineer (SDE) and leadership roles.
 
 - 🔭 I'm currently working on MERN Stack and React Native for mobile applications
 - 🌱 I'm always eager to learn and grow as a developer
@@ -22,32 +22,55 @@ Dynamic software developer with 3 years of IT experience, specializing in fronte
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+
+## 🔑 Key Skills
+
+- Frontend Development: ReactJS, React Native, Hooks, Reusable Components
+- Backend Development: NodeJS, ExpressJS
+- Database Management: MongoDB
+- UI/UX: Responsive Web Design, Cross-device Compatibility
+- Version Control: Git, GitHub
+- Project Management: Agile Methodologies
+- Problem-Solving: Advanced Programming and Data Structures
+- Cloud Services: AWS, Firebase
+- Performance Optimization
+- Mobile App Development: React Native, APK creation
 
 ## 🏆 Experience
 
 ### Software Engineer (SDE-II) at Harns Technology Pvt. Ltd.
 *Sept. 2022 - Present*
-- Leading development of scalable web applications
+- Leading development of scalable web applications used by thousands of users
 - Collaborating with cross-functional teams on project requirements and architecture
 - Spearheading mobile application development from concept to release
-- Key projects: Woovet Admin Dashboard, Online Pet Hospital, Multi-Language Support, CEO Dashboard
+- Key projects:
+  - Woovet Admin Dashboard (requirement collection, flow, compatibility, components)
+  - Woovet Online Pet Hospital (500+ routes mapped, multiple clinic support at international level)
+  - Woovet Multi-Language Support implementation
+  - Woovet CEO Dashboard (requirement-based graph suggestion and implementation)
 
 ### Full-Stack Developer at Mindrops Pvt. Ltd.
 *March 2022 - Aug. 2022*
 - Developed and maintained robust web applications
-- Implemented Admin Call-Record Log Dashboard and Horticulture website
+- Implemented Admin Call-Record Log Dashboard UI and API (Full Stack)
+- Developed Admin Call-log UI and API implementation
+- Created Horticulture website UI and API implementation
+
+### Freelance Developer
+*Sept. 2021 - March 2022*
+- Developed Research Center Static Website
+- Improved skills in markup languages
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ck007tiwari&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ck007tiwari&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ck007tiwari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ck007tiwari)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chandrkishor/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:chandrakishort20@gmail.com)
 
 ## 💬 Favorite Dev Quote
