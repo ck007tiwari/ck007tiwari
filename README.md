@@ -37,8 +37,32 @@ Dynamic software developer with 3+ years of IT experience, specializing in front
 ![Babel](https://img.shields.io/badge/-Babel-black?style=flat-square&logo=babel)
 ![ESLint](https://img.shields.io/badge/-ESLint-black?style=flat-square&logo=eslint)
 
-## 🔑 Key Skills
+## 🏆 Experience
 
+### Software Engineer (SDE-II) at Harns Technology Pvt. Ltd.
+*Sept. 2022 - Present*
+- Leading development of scalable web applications used by thousands of users
+- Collaborating with cross-functional teams on project requirements and architecture
+- Spearheading mobile application development from concept to release
+- Key projects:
+  - Woovet Admin Dashboard (requirement collection, flow, compatibility, components)
+  - Woovet Online Pet Hospital (500+ routes mapped, multiple clinic support at international level)
+  - Woovet Multi-Language Support implementation
+  - Woovet CEO Dashboard (requirement-based graph suggestion and implementation)
+
+### Full-Stack Developer at Mindrops Pvt. Ltd.
+*March 2022 - Aug. 2022*
+- Developed and maintained robust web applications
+- Implemented Admin Call-Record Log Dashboard UI and API (Full Stack)
+- Developed Admin Call-log UI and API implementation
+- Created Horticulture website UI and API implementation
+
+### Freelance Developer
+*Sept. 2021 - March 2022*
+- Developed Research Center Static Website
+- Improved skills in markup languages
+
+## 🔑 Key Skills <br/>
 ![Frontend](https://img.shields.io/badge/Frontend-ReactJS%20%7C%20React%20Native%20%7C%20Hooks-blue?style=flat-square&logo=react)<br />
 ![Backend](https://img.shields.io/badge/Backend-NodeJS%20%7C%20ExpressJS-green?style=flat-square&logo=node.js)<br />
 ![Database](https://img.shields.io/badge/Database-MongoDB-green?style=flat-square&logo=mongodb)<br />
