@@ -26,30 +26,26 @@ Dynamic software developer with 3+ years of IT experience, specializing in front
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 
-## 🔑 Key Skills
-
-- Frontend Development: ReactJS, React Native, Hooks, Reusable Components
-- Backend Development: NodeJS, ExpressJS
-- Database Management: MongoDB
-- UI/UX: Responsive Web Design, Cross-device Compatibility
-- Version Control: Git, GitHub
-- Project Management: Agile Methodologies
-- Problem-Solving: Advanced Programming and Data Structures
-- Cloud Services: AWS, Firebase
-- Performance Optimization
-- Mobile App Development: React Native, APK creation
 
 ## 🔑 Key Skills
-
 ![Frontend](https://img.shields.io/badge/Frontend-ReactJS%20%7C%20React%20Native%20%7C%20Hooks-blue?style=flat-square&logo=react)
+
 ![Backend](https://img.shields.io/badge/Backend-NodeJS%20%7C%20ExpressJS-green?style=flat-square&logo=node.js)
+
 ![Database](https://img.shields.io/badge/Database-MongoDB-green?style=flat-square&logo=mongodb)
+
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Responsive%20Design%20%7C%20Cross--device-blueviolet?style=flat-square&logo=css3)
+
 ![Version Control](https://img.shields.io/badge/Version%20Control-Git%20%7C%20GitHub-black?style=flat-square&logo=git)
+
 ![Project Management](https://img.shields.io/badge/Project%20Management-Agile-blue?style=flat-square&logo=azuredevops)
+
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Data%20Structures%20%7C%20Algorithms-orange?style=flat-square&logo=leetcode)
+
 ![Cloud Services](https://img.shields.io/badge/Cloud%20Services-AWS%20%7C%20Firebase-orange?style=flat-square&logo=amazon-aws)
+
 ![Performance](https://img.shields.io/badge/Performance-Optimization-red?style=flat-square&logo=speedtest)
+
 ![Mobile Dev](https://img.shields.io/badge/Mobile%20Dev-React%20Native%20%7C%20APK-blue?style=flat-square&logo=android)
 
 ## 🏆 Experience
@@ -86,10 +82,8 @@ Dynamic software developer with 3+ years of IT experience, specializing in front
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chandrkishor/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:chandrakishort20@gmail.com)
 
-## 💬 Favorite Dev Quote
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
 ⭐️ From [Chandrakishor Tiwari](https://github.com/ck007tiwari)
+
+## 💬 Favorite Dev Quote
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
