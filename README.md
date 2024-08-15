@@ -39,6 +39,19 @@ Dynamic software developer with 3+ years of IT experience, specializing in front
 - Performance Optimization
 - Mobile App Development: React Native, APK creation
 
+## 🔑 Key Skills
+
+![Frontend](https://img.shields.io/badge/Frontend-ReactJS%20%7C%20React%20Native%20%7C%20Hooks-blue?style=flat-square&logo=react)
+![Backend](https://img.shields.io/badge/Backend-NodeJS%20%7C%20ExpressJS-green?style=flat-square&logo=node.js)
+![Database](https://img.shields.io/badge/Database-MongoDB-green?style=flat-square&logo=mongodb)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Responsive%20Design%20%7C%20Cross--device-blueviolet?style=flat-square&logo=css3)
+![Version Control](https://img.shields.io/badge/Version%20Control-Git%20%7C%20GitHub-black?style=flat-square&logo=git)
+![Project Management](https://img.shields.io/badge/Project%20Management-Agile-blue?style=flat-square&logo=azuredevops)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Data%20Structures%20%7C%20Algorithms-orange?style=flat-square&logo=leetcode)
+![Cloud Services](https://img.shields.io/badge/Cloud%20Services-AWS%20%7C%20Firebase-orange?style=flat-square&logo=amazon-aws)
+![Performance](https://img.shields.io/badge/Performance-Optimization-red?style=flat-square&logo=speedtest)
+![Mobile Dev](https://img.shields.io/badge/Mobile%20Dev-React%20Native%20%7C%20APK-blue?style=flat-square&logo=android)
+
 ## 🏆 Experience
 
 ### Software Engineer (SDE-II) at Harns Technology Pvt. Ltd.
