@@ -61,7 +61,7 @@ Dynamic software developer with 3+ years of IT experience, specializing in front
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chandrkishor&theme=dark&hide_border=false)
 
 ### 🤝 Connect with me:
-<img src="https://github.com/Chandrkishor.png" width="50" height="50" style="border-radius: 50%;" alt="Chandrakishor Tiwari"> <br />
+<img src="https://github.com/ck007tiwari.png" width="50" height="50" style="border-radius: 50%;" alt="Chandrakishor Tiwari"> <br />
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chandrkishor/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:chandrakishort20@gmail.com)
 <br />
